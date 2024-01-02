@@ -43,7 +43,7 @@
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/></p>
 
 #### Editor / IDE I ♥
-<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> 
+<p align="left"><img src="https://www.svgrepo.com/show/452109/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
 <!-- Contact Section -->
