@@ -1,6 +1,8 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Kundan Kukadiya 🏄‍♂️ </h1>
-<h3> 👋 Hello! I'm a seasoned DevOps Engineer from India 🇮🇳 with over three years of experience in Cloud and DevOps technologies. I specialize in optimizing development pipelines, ensuring scalability, and automating infrastructure to drive seamless software delivery. </h3>
+<h3> 👋 Hello! I'm a passionate and experienced DevOps Engineer from India 🇮🇳 with over 4+ years of hands-on experience in Cloud and DevOps technologies. </h3>
+
+I specialize in streamlining development workflows, automating infrastructure, and ensuring the scalability and reliability of systems. My goal is to drive efficient, cost-effective, and seamless software delivery by leveraging modern DevOps practices and cloud-native solutions.
 
 🌟 **What I Do:**
 - **Cloud Infrastructure:** Expertise in AWS, Azure, GCP, and hybrid cloud environments.
@@ -9,6 +11,14 @@
 - **Infrastructure as Code (IaC):** Using tools like Terraform, CloudFormation, and Ansible for automated provisioning and configuration management.
 - **Monitoring & Security:** Setting up monitoring, logging, and alerting solutions with tools like Prometheus, Grafana, ELK Stack, and others. Experience in securing CI/CD pipelines and cloud infrastructures.
 
+### 🎓 Certifications & Courses 🏆
+
+I have completed several certifications and courses to enhance my knowledge and expertise in DevOps, Cloud, and related technologies. Here are some of my notable certifications:
+
+- [**AWS Certified Solutions Architect – Associate**](https://aws.amazon.com/certification/certified-solutions-architect-associate/) 🌩️
+- [**AWS Certified Developer - Associate**](https://aws.amazon.com/certification/certified-developer-associate/) 🌩️
+
+I am always looking to expand my skill set and stay updated with the latest industry trends and technologies. Feel free to check out my certifications and learnings!
 
 ### ⚙️ DevOps Tools 🛠️
 <p align="left"><img src="https://www.svgrepo.com/show/331300/aws.svg" alt="aws" title="aws" width="50" height="50"/>
