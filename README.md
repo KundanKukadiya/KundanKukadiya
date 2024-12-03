@@ -16,8 +16,8 @@ I specialize in streamlining development workflows, automating infrastructure, a
 
 I have completed several certifications and courses to enhance my knowledge and expertise in DevOps, Cloud, and related technologies. Here are some of my notable certifications:
 
-- [**AWS Certified Solutions Architect – Associate**](https://aws.amazon.com/certification/certified-solutions-architect-associate/) 🌩️
-- [**AWS Certified Developer - Associate**](https://aws.amazon.com/certification/certified-developer-associate/) 🌩️
+- [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/28d8cdc3-114e-47e4-aed0-2004452965eb/public_url) 🌩️
+- [**AWS Certified Developer - Associate**](https://www.credly.com/badges/cd58cca3-50f9-48fb-8218-8600b9a32490/public_url) 🌩️
 
 ### ⚙️ Skills on below Tools & Languages 🛠️
 <p align="left"><img src="https://www.svgrepo.com/show/331300/aws.svg" alt="aws" title="aws" width="50" height="50"/>
